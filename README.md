@@ -1,16 +1,15 @@
-## Hi there 👋
+Hola, soy Yago
 
-<!--
-**yagoferre04/yagoferre04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programador junior que ha trabajado con Python, JavaScript, CSS, HTML, multiples librerias, api's (google y openai)
 
-Here are some ideas to get you started:
+Proyectos destacados
+- 🩺 **VetoClock – Pipeline DICOM + JSON + Embeddings (v2.0)**  
+  ETL unificado: SELECT MySQL → JSON limpio → embeddings OpenAI → descarga/anonimización DICOM → recomprime.  
+  [Repo](https://github.com/yagoferreiroajover/vetoclock-pipeline)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✉️ **Clínicas Cabrera – Ingesta automática de leads desde Gmail**  
+  Lector Gmail API → parsing robusto → cifrado opcional → inserción en MySQL con logs.  
+  [Repo](https://github.com/yagoferreiroajover/clinicas-cabrera-gmail-ingest)
+
+## Stack
+`Python` · `MySQL` · `Gmail API` · `OpenAI Embeddings` · `pydicom` · `requests` · `dotenv` · `logging`
